@@ -4,10 +4,10 @@
     <string name="alert_action_edit_anyway">Pokračovat</string>
     <string name="alert_edit_action_delete">Odstranit</string>
     <string name="alert_edit_action_update">Aktualizovat</string>
-    <string name="alert_message_delete_folders">Opravdu chcete vymazat složky(%1$s)?</string>
-    <string name="alert_message_delete_folders_notes">Opravdu chcete vymazat složky(%1$s) a poznámky(%2$s)?</string>
+    <string name="alert_message_delete_folders">Opravdu chcete vymazat složky (%1$s)?</string>
+    <string name="alert_message_delete_folders_notes">Opravdu chcete vymazat složky (%1$s) a poznámky (%2$s)?</string>
     <string name="alert_message_delete_note">Opravdu chcete smazat tuto poznámku?</string>
-    <string name="alert_message_delete_notes">Opravdu chcete vymazat poznámky(%1$s)?</string>
+    <string name="alert_message_delete_notes">Opravdu chcete vymazat poznámky (%1$s)?</string>
     <string name="alert_message_discard_changes">Zrušit všechny změny?</string>
     <string name="app_name">Poznámky</string>
     <string name="app_widget">Poznámky</string>
