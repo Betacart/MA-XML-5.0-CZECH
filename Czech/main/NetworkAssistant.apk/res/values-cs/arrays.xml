@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="traffic_sort_type">
-        <item>Řadit dle jména</item>
-        <item>Řadit dle 2G/3G provozu</item>
-        <item>Řadit dle celkového provozu</item>
+        <item>Řadit podle jména</item>
+        <item>Řadit podle 2G/3G provozu</item>
+        <item>Řadit podle celkového provozu</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>Provoz za včerejšek\u0020</item>
@@ -16,7 +16,7 @@
         <item>Tento měsíc na 2G/3G</item>
         <item>Včera na Wi-fi</item>
         <item>Dnes na Wi-fi</item>
-        <item>Tento měsíc na Wi-fi</item>
+        <item>Tento měsíc na Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Včera 2G/3G</item>
