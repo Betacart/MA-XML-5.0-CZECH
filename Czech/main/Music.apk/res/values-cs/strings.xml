@@ -87,7 +87,7 @@
     <string name="enter_sleep_mode">Režim spánku</string>
     <string name="eq_auto">Vlastní</string>
     <string name="eq_blues">Blues</string>
-    <string name="eq_classical">Classical</string>
+    <string name="eq_classical">Klasika</string>
     <string name="eq_country">Country</string>
     <string name="eq_dance">Dance</string>
     <string name="eq_delete">Odstranit</string>
@@ -103,7 +103,7 @@
     <string name="eq_preset_hint">Zadejte název předvolby</string>
     <string name="eq_preset_rename">Přejmenovat</string>
     <string name="eq_preset_select">Zvolit předvolbu</string>
-    <string name="eq_rb">R &amp; B</string>
+    <string name="eq_rb">R&amp;B</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Ekvalizér</string>
     <string name="equalizer_delete">Vymazat</string>
@@ -115,8 +115,8 @@
     <string name="file_not_found">Soubor neexistuje</string>
     <string name="filter_by_duration">Filtrovat podle délky</string>
     <string name="filter_by_duration_format">%2$dmin%5$2ds</string>
-    <string name="filter_by_duration_max">5 min</string>
-    <string name="filter_by_duration_min">0 s</string>
+    <string name="filter_by_duration_max">5 min.</string>
+    <string name="filter_by_duration_min">0 s.</string>
     <string name="filter_by_duration_prefix">Minimální délka:</string>
     <string name="filter_by_duration_summary">Filtrovat dobu trvání skladby</string>
     <string name="filter_by_folder">Filtrovat složky</string>
@@ -142,7 +142,7 @@
     <string name="keep_quit_position_settings">Uložit poslední pozici</string>
     <string name="keep_quit_position_summary">Pamatovat si pozici v posledně přehrávané skladbě</string>
     <string name="listen_to_music_online_settings">Poslech online hudby</string>
-    <string name="listen_to_online_summary">Poslech hudby přes mobilní, nebo Wifi internet</string>
+    <string name="listen_to_online_summary">Poslech hudby přes mobilní, nebo Wi-Fi internet</string>
     <string name="load_album_artist_failed">Načítání alb a umělců selhalo.</string>
     <string name="load_album_artist_in_process">Načítání alb a umělců...</string>
     <string name="load_album_failed">Načítání seznamu alb selhalo, zkuste to prosím znovu.</string>
@@ -163,10 +163,10 @@
     <string name="lrc_select">Vyberte text</string>
     <string name="lyric_and_album">Texty a Alba</string>
     <string name="lyric_display_settings">Zobrazovat texty</string>
-    <string name="lyric_display_summary">Zobrazit texty v přehrávači. (Doporučené)</string>
+    <string name="lyric_display_summary">Zobrazit texty v přehrávači (doporučené)</string>
     <string name="lyric_download">Stáhnout texty</string>
     <string name="lyric_open_other_connect">Stahovat text pomocí mobilního připojení k internetu.</string>
-    <string name="lyric_picker_not_found">Ve vašem zařízení nebyl nalezen žádný správce souborů</string>
+    <string name="lyric_picker_not_found">Ve Vašem zařízení nebyl nalezen žádný správce souborů</string>
     <string name="max_interval">90</string>
     <string name="mediaplaybacklabel">Hudba</string>
     <string name="mi_effect">MiSound</string>
@@ -181,8 +181,8 @@
     <string name="more">Více</string>
     <string name="music_browser_label">Hudba</string>
     <string name="music_filter">Filtrování souborů</string>
-    <string name="music_filter_helper">Aby bylo možné skrýt soubory, které nesouvisí s hudbou (zvonění, melodie atd) je filtr pro velikost skladeb nastaven na 800K. Toto nastavení můžete upravit v menu Nastavení / Filtrování souborů.</string>
-    <string name="music_not_loaded">Nebylo načteno žádné audio.</string>
+    <string name="music_filter_helper">Aby bylo možné skrýt soubory, které nesouvisí s hudbou (zvonění, melodie atd) je filtr pro velikost skladeb nastaven na 800KB. Toto nastavení můžete upravit v menu Nastavení / Filtrování souborů.</string>
+    <string name="music_not_loaded">Nebyl načten žádný zvuk.</string>
     <string name="music_open_other_connect">Stáhnout hudbu přes mobilní internet</string>
     <string name="music_picker_title">Vyberte skladbu</string>
     <string name="music_settings">Nastavení</string>
@@ -205,7 +205,7 @@
     <string name="play_and_download">Poslouchat a stahovat</string>
     <string name="play_and_download_summary">Poslouchejte online hudbu a stahujte ji</string>
     <string name="play_selection">Přehrát</string>
-    <string name="playback_failed">Promiňte, přehrávač nepodporuje tento typ audio souboru.</string>
+    <string name="playback_failed">Promiňte, přehrávač nepodporuje tento typ zvukového souboru.</string>
     <string name="playback_failed_by_bad_file">%s nelze přehrát, formát není podporován..</string>
     <string name="playback_failed_by_network">%s nelze přehrát, zkontrolujte nastavení internetu</string>
     <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
@@ -223,7 +223,7 @@
     <string name="project_device_mobile">Mobilní telefon</string>
     <string name="queue">Aktuální playlist</string>
     <string name="quit_player">Ukončit</string>
-    <string name="quit_warining">Přehrávač zastaví přehrávání za %d minut(y)</string>
+    <string name="quit_warining">Přehrávač zastaví přehrávání za %d minut</string>
     <string name="recentlyadded_title">Naposledy přidané</string>
     <string name="recentlyplayed_title">Naposledy přehrávané</string>
     <string name="recommend">Doporučené</string>
@@ -282,7 +282,7 @@
     <string name="track_num_format">(%s)</string>
     <string name="tracks_title">Vše</string>
     <string name="unknown_album_name">Neznámé album</string>
-    <string name="unknown_artist_name">Neznámy umělec</string>
+    <string name="unknown_artist_name">Neznámý umělec</string>
     <string name="use_local_album">Použít uložený obrázek alba</string>
     <string name="use_local_lyric">Použít uložené texty</string>
     <string name="xiaomi_account_setting">Xiaomi účet</string>
