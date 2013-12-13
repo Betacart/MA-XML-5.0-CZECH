@@ -28,7 +28,7 @@
     <string name="app_has_deleted">Aplikace %s byla vymazána</string>
     <string name="app_name">Spotřeba dat</string>
     <string name="app_traffic_detail">": (%s)"</string>
-    <string name="apply_rules_failed">"Nepodařilo se použít bránu firewall, prosím zkuste znovu.
+    <string name="apply_rules_failed">"Nepodařilo se použít bránu firewall, prosím zkuste to znovu.
     (%s)"</string> 
     <string name="apply_rules_failed_known">OK</string>
     <string name="batch_connect_control">Aplikace</string>
@@ -87,7 +87,7 @@ Můžete je upravit."</string>
     <string name="menu_settings">Nastavení</string>
     <string name="menu_sort">Seřadit</string>
     <string name="menu_sort_by_all_traffic">Podle spotřeby</string>
-    <string name="menu_sort_by_disabled">Podle deaktiv. App</string>
+    <string name="menu_sort_by_disabled">Podle deaktiv. aplikací</string>
     <string name="menu_sort_by_mobile_traffic">Podle 2G/3G spotřeby</string>
     <string name="menu_sort_by_name">Podle jména</string>
     <string name="menu_traffic_adjust">Přizpůsobení provozu</string>
@@ -131,8 +131,8 @@ Můžete je upravit."</string>
     <string name="running_apps_activity_title">Spuštěné aplikace</string>
     <string name="save">Uložit</string>
     <string name="settings_page_adjust_summary_no_carrier">Operátor nebyl nastaven，Automatické upravování vypnuto</string>
-    <string name="settings_page_traffic_summary">Dostupné: %1$s, Upozornění: %2$s, Od %3$d. dne</string>
-    <string name="settings_page_traffic_summary_no_settings">Balíček nenastaven, Od %d. dne</string>
+    <string name="settings_page_traffic_summary">Dostupné: %1$s, upozornění: %2$s, od %3$d. dne</string>
+    <string name="settings_page_traffic_summary_no_settings">Balíček nenastaven, od %d. dne</string>
     <string name="sms_match_fail">SMS nesouhlasí</string>
     <string name="sms_template_match_fail">SMS vzor nesouhlasí</string>
     <string name="sms_template_updated_label">"Aktualizované:\u0020"</string>
@@ -144,7 +144,7 @@ Můžete je upravit."</string>
     <string name="sync_traffic_fail_message">Dotaz na operátora selhal, možná je server zaneprázdněn. Zkuste to prosím později, nebo zavolejte na zákaznickou podporu</string>
     <string name="sync_traffic_fail_title">Dotaz selhal</string>
     <string name="sync_traffic_ing">Získávám od operátora, prosím čekejte...</string>
-    <string name="sync_traffic_no_cmd_detail">"Napište Váš kraj a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Děkujeme."</string>
+    <string name="sync_traffic_no_cmd_detail">"Zadejte Vaši zemi a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Děkujeme."</string>
     <string name="sync_traffic_no_cmd_detail_custom_config">"Můžete nastavit manuálně v Nastavení >> Nastavit manuálně >> Vložit využitá data"</string>
     <string name="sync_traffic_no_cmd_title">Není dostupná vzorová SMS</string>
     <string name="sync_traffic_success">"Získána data od operátora, provoz upraven"</string>
@@ -155,13 +155,13 @@ Můžete je upravit."</string>
     <string name="traffic_remain">Zbývající</string>
     <string name="traffic_settings_error">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
     <string name="traffic_suffix">Provoz</string>
-    <string name="traffic_suffix_with_uint">Provoz(MB)</string>
+    <string name="traffic_suffix_with_uint">Provoz (MB)</string>
     <string name="traffic_total">"%s
 Datový balíček"</string>
     <string name="traffic_used_status">"%s
 Využito"</string>
     <string name="unknown">Neznámé</string>
-    <string name="unknown_free_traffic_hint">"Pokud neznáte velikost svého datového balíčku, prosím zavolejte operátorovi"</string>
+    <string name="unknown_free_traffic_hint">"Pokud neznáte velikost svého datového balíčku, kontaktujte Vašeho operátora."</string>
     <string name="unknown_free_traffic_text">"Neznáte svůj datový balíček?"</string>
     <string name="unknown_free_traffic_title">Instrukce</string>
     <string name="unknown_location">Nenastaveno</string>
